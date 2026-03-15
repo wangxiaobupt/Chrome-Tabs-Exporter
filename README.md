@@ -61,7 +61,7 @@ Chrome Tabs Exporter/
 
 1. **下载项目**
    ```bash
-   git clone https://github.com/your-username/chrome-tabs-exporter.git
+   git clone https://github.com/wangxiaobupt/chrome-tabs-exporter.git
    cd chrome-tabs-exporter
    ```
 
@@ -179,7 +179,7 @@ function showMessage(text, type)          // 显示用户消息
 
 1. **克隆项目**
    ```bash
-   git clone https://github.com/your-username/chrome-tabs-exporter.git
+   git clone https://github.com/wangxiaobupt/chrome-tabs-exporter.git
    cd chrome-tabs-exporter
    ```
 
@@ -259,9 +259,8 @@ function showMessage(text, type)          // 显示用户消息
 
 ## 📞 联系方式
 
-- 🐛 **Bug 报告**: [GitHub Issues](https://github.com/your-username/chrome-tabs-exporter/issues)
-- 💡 **功能建议**: [GitHub Discussions](https://github.com/your-username/chrome-tabs-exporter/discussions)
-- 📧 **邮件联系**: your-email@example.com
+- 🐛 **Bug 报告**: [GitHub Issues](https://github.com/wangxiaobupt/chrome-tabs-exporter/issues)
+- 💡 **功能建议**: [GitHub Discussions](https://github.com/wangxiaobupt/chrome-tabs-exporter/discussions)
 
 ---
 
@@ -269,6 +268,6 @@ function showMessage(text, type)          // 显示用户消息
 
 **如果这个项目对你有帮助，请给它一个 ⭐️**
 
-Made with ❤️ by [Your Name](https://github.com/your-username)
+Made with ❤️ by [WangXiaoBupt](https://github.com/wangxiaobupt)
 
 </div>
